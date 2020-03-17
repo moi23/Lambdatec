@@ -1,6 +1,4 @@
 import styled from "styled-components";
-//import Logo from '../../assets/Particles.mp4';
-import Video from "../../assets/Particles.mp4";
 
 export const Container = styled.div`
   @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
@@ -69,4 +67,6 @@ export const Container = styled.div`
     bottom: 100px;
     color: white;
   }
+
+  
 `;

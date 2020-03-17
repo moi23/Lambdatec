@@ -9,16 +9,16 @@ import Typical from "react-typical";
 export default function Header() {
   return (
     <Container>
-      <video src={Particles} autoPlay="autoPlay" loop="true" />
+      <video src={Particles} autoPlay="autoplay" loop="loop" />
       <img src={Logo} className="animated fadeIn delay-1s" alt="" />
       <Typical
-        steps={["WAY", 1000, " WAY BEYOND THE MIND", 5000]}
+        steps={["WAY", 1000, " WAY BEYOND YOUR MIND", 5000]}
         loop={Infinity}
         wrapper="h1"
         className="Teste "
       />
       <h3>
-        Segurança, Estabilidade e alta performance em suas aplicações agora com
+        Segurança, design, SEO, desenvolvimento em alta performance, agora com
         a consultoria da λ
       </h3>
       <button>?</button>
