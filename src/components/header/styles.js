@@ -34,6 +34,7 @@ export const Container = styled.div`
     transition: 0.5s;
     cursor: pointer;
     transform: scale(1);
+    font-weight: bold;
   }
 
   button:hover {
