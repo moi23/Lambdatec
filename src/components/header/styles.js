@@ -19,7 +19,7 @@ export const Container = styled.div`
   img {
     position: absolute;
     height: 50%;
-    top: 100px;
+    top: 10%;
   }
 
   button {
