@@ -9,7 +9,7 @@ export default function Section3() {
         <p class="text">1</p>
         <div className="sub_box">
           <div className="sub_sub_Box">
-            <p className="title">LEVANTAMENTO DE REQUISITOS.</p>
+            <p className="title">LEVANTAMENTO DE REQUISITOS</p>
           </div>
           <p>
             Nossa equipe de especialistas analisa seu projeto e encontra pontos
