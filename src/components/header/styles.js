@@ -13,6 +13,7 @@ export const Container = styled.div`
     width: 100%;
     position: relative;
     background-attachment: fixed;
+    pointer-events: none;
   }
 
   img {

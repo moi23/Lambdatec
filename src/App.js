@@ -2,24 +2,21 @@ import React from "react";
 import "./App.css";
 import Header from "./components/header";
 import Section2 from "./components/section2";
-<<<<<<< HEAD
-import Footer from "./components/footer";
-=======
 import Section3 from "./components/section3";
->>>>>>> 0ce88c0d482fb2be93ff6b99b3f5eb3968ff7a0e
+import Section4 from "./components/section4";
+import H2 from "./components/H2";
+import Footer from "./components/footer";
 
 function App() {
   return (
     <div className="App">
       <Header />
       <Section2 />
-<<<<<<< HEAD
+      <Section3 />
+      <Section4 />
+      <H2 />
       <Footer />
     </div> 
-=======
-      <Section3 />
-    </div>
->>>>>>> 0ce88c0d482fb2be93ff6b99b3f5eb3968ff7a0e
   );
 }
 
