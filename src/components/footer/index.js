@@ -28,31 +28,31 @@ export default function Footer() {
             LogoFace
           }
           alt = "Facebook"
-          title = "Visite nossa página oficial no Facebook" / >
+          title = "Visite nossa página oficial no Facebook" />
         </a>
        
-        < a href = "https://www.facebook.com/" target = "_blank" >
+        < a href = "https://www.linkedin.com/" target = "_blank" >
           < img src = {
             LogoLink
           }
           alt = "Linkedin"
-          title = "Nosso perfil no Linkedin" / >
+          title = "Nosso perfil no Linkedin" />
         </a>
        
-        < a href = "https://www.facebook.com/" target = "_blank" >
+        < a href = "https://github.com/moi23/Lambdatech" target = "_blank" >
           < img src = {
             LogoGit
           }
           alt = "GitHub"
-          title = "Perfil de repositórios no GitHub" / >
+          title = "Perfil de repositórios no GitHub" />
         </a>
        
-        < a href = "https://www.facebook.com/" target = "_blank" >
+        < a href = "https://www.99freelas.com.br/user/lambdatec" target = "_blank" >
           < img src = {
             Logo99freelas
           }
           alt = "99Freelas"
-          title = "Também estamos no 99freelas!" / >
+          title = "Também estamos no 99freelas!" />
         </a>
     
       </div>
