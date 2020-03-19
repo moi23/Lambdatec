@@ -1,23 +1,23 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
-export const Container = styled.div `
+export const Container = styled.div`
   height: 30vh;
   background-color: black;
   bottom: 0;
   left: 0;
- 
-  .Footer{
-     display: flex;
-     justify-content: center;
-     align-items: center;
+
+  .Footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
-  .LogoLambdaFooter{
+  .LogoLambdaFooter {
     position: relative;
     margin-top: 5vh;
-    margin-left: 45%;
-    width: 42px;
-    height: 37px;
+    margin-left: 46%;
+    width: 37px;
+    height: 32px;
   }
 
   .LogoLambdaFooter img {
@@ -25,27 +25,37 @@ export const Container = styled.div `
     height: 100%;
   }
 
-  .RedesSociais{
+  .RedesSociais {
     display: flex;
     justify-content: center;
-    align-items: center;    
-    margin-top: 10vh;
+    align-items: center;
+    margin-top: 5vh;
     height: 30px;
   }
 
-  .RedesSociais a img{
+  .divisaoRedesSociais {
+    width: 100%;
+  }
+
+  .HRdivisaoRedesSociais {
+    width: 100%;
+    margin-left: 5%;
+    margin-top: 8%;
+    opacity: 20%;
+  }
+
+  .RedesSociais a img {
     margin-left: 4vh;
     width: 30px;
     height: 30px;
-    transition: .3s;
+    transition: 0.4s;
     transform: scale(1);
     filter: invert(1);
-    opacity: 30%;
+    opacity: 20%;
   }
 
   .RedesSociais a img:hover {
     opacity: 100%;
-    transform: scale(1.2);
+    transform: scale(2);
   }
-
 `;

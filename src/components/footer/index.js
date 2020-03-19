@@ -6,7 +6,7 @@ import LogoLink from "../../assets/linkedin.svg";
 import LogoGit from "../../assets/github-square.svg";
 import Logo99freelas from "../../assets/Logo99freelas.svg";
 
-export default function Footer() {
+function Footer() {
   return (
     <Container>
       <div className="Footer">
@@ -20,7 +20,9 @@ export default function Footer() {
               />
             </div>
           </a>
-
+          <div className="divisaoRedesSociais">
+            <hr className="HRdivisaoRedesSociais" />
+          </div>
           <div className="RedesSociais">
             <a href="https://www.facebook.com/" target="_blank">
               <img
@@ -30,7 +32,7 @@ export default function Footer() {
               />
             </a>
 
-            <a href="https://www.facebook.com/" target="_blank">
+            <a href="https://www.linkedin.com/" target="_blank">
               <img
                 src={LogoLink}
                 alt="Linkedin"
@@ -38,7 +40,7 @@ export default function Footer() {
               />
             </a>
 
-            <a href="https://www.facebook.com/" target="_blank">
+            <a href="https://github.com/moi23/Lambdatech" target="_blank">
               <img
                 src={LogoGit}
                 alt="GitHub"
@@ -46,7 +48,10 @@ export default function Footer() {
               />
             </a>
 
-            <a href="https://www.facebook.com/" target="_blank">
+            <a
+              href="https://www.99freelas.com.br/user/lambdatec"
+              target="_blank"
+            >
               <img
                 src={Logo99freelas}
                 alt="99Freelas"
@@ -59,3 +64,5 @@ export default function Footer() {
     </Container>
   );
 }
+
+export default Footer;
