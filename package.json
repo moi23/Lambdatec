@@ -2,6 +2,7 @@
   "name": "lambdagency",
   "version": "0.1.0",
   "repository": "https://github.com/moi23/Lambdatech",
+  "homepage": "https://moi23.github.io/Lambdatech/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
