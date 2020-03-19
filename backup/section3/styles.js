@@ -1,7 +1,8 @@
 import styled from "styled-components";
-import Font from "../../../assets/avnir_sv/AvenirLTStd-Book.otf";
+import Font from "../../assets/avnir_sv/AvenirLTStd-Book.otf";
 
 export const Container = styled.div`
+  height: 100vh;
   background-color: white;
   display: flex;
   justify-content: center;
@@ -14,7 +15,7 @@ export const Container = styled.div`
   .box {
     display: flex;
     align-items: center;
-    height: 280px;
+    height: 300px;
     width: 500px;
     background: white;
   }
