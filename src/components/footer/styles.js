@@ -15,9 +15,9 @@ export const Container = styled.div `
   .LogoLambdaFooter{
     position: relative;
     margin-top: 5vh;
-    margin-left: 45%;
-    width: 42px;
-    height: 37px;
+    margin-left: 46%;
+    width: 37px;
+    height: 32px;
   }
 
   .LogoLambdaFooter img {
@@ -29,23 +29,35 @@ export const Container = styled.div `
     display: flex;
     justify-content: center;
     align-items: center;    
-    margin-top: 10vh;
+    margin-top: 5vh;
     height: 30px;
+  }
+
+  .divisaoRedesSociais{
+    width: 100%;
+  }
+
+
+  .HRdivisaoRedesSociais{
+    width: 100%;
+    margin-left: 5%;
+    margin-top: 8%;
+    opacity: 10%;
   }
 
   .RedesSociais a img{
     margin-left: 4vh;
     width: 30px;
     height: 30px;
-    transition: .3s;
+    transition: .4s;
     transform: scale(1);
     filter: invert(1);
-    opacity: 30%;
+    opacity: 5%;
   }
 
   .RedesSociais a img:hover {
     opacity: 100%;
-    transform: scale(1.2);
+    transform: scale(2);
   }
 
 `;

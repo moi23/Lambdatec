@@ -17,7 +17,9 @@ export default function Footer() {
         <img src={LogoFooter} alt="Logo Lambda" title="Way beyond the mind"/>
       </div>
       </a>
-
+    <div className = "divisaoRedesSociais">
+      <hr className = "HRdivisaoRedesSociais" />
+    </div>
       <div className="RedesSociais">
        
 
