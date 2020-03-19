@@ -2,6 +2,10 @@ import styled from "styled-components";
 import Font from "../../assets/avnir_sv/AvenirLTStd-Book.otf";
 
 export const Container = styled.div`
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   @font-face {
     font-family: Font;
     src: url(${Font});
@@ -17,9 +21,5 @@ export const Container = styled.div`
   p {
     font-family: Font;
     font-weight: bold;
-  }
-
-  .subContain {
-    display: flex;
   }
 `;
