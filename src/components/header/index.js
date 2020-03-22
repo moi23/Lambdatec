@@ -19,9 +19,9 @@ export default function Header() {
       />
       <h3>
         Segurança, design, SEO, desenvolvimento em alta performance, agora com
-        a consultoria da λ
-      </h3>
-      <button>?</button>
+        a consultoria da Lambda
+      </h3> 
+      <button onclick="#sec1">?</button>
     </Container>
   );
 }

@@ -1,16 +1,19 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
+
   height: 30vh;
   background-color: black;
   bottom: 0;
   left: 0;
 
+  
   .Footer {
     display: flex;
     justify-content: center;
     align-items: center;
   }
+
 
   .LogoLambdaFooter {
     position: relative;

@@ -5,6 +5,7 @@ import LogoFace from "../../assets/facebook-square.svg";
 import LogoLink from "../../assets/linkedin.svg";
 import LogoGit from "../../assets/github-square.svg";
 import Logo99freelas from "../../assets/Logo99freelas.svg";
+import Particles from "../../assets/Particles.mp4";
 
 function Footer() {
   return (

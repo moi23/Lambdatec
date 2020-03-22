@@ -27,15 +27,16 @@ export const Container = styled.div`
     color: white;
     border: 2px solid white;
     position: absolute;
-    bottom: -40px;
+    bottom: -8%; 
     font-size: 1em;
-    height: 60px;
-    width: 180px;
-    opacity: 40%;
+    height: 10%;
+    width: 20%;
+    opacity: 50%;
     transition: 0.5s;
-    cursor: pointer;
+    cursor: help;
     transform: scale(1);
     font-weight: bold;
+    z-index: 999;
   }
 
   button:hover {
@@ -43,16 +44,13 @@ export const Container = styled.div`
     color: black;
     border: 2px solid white;
     position: absolute;
-    bottom: -40px;
-    font-size: 1em;
-    cursor: pointer;
-    z-index: 999;
-    transform: scale(1) 0.2;
+    transform: scale(1.1);
   }
+  
   .Teste {
     position: absolute;
     color: white;
-    bottom: 1px;
+    bottom: 5%;
     font-size: 3rem;
     letter-spacing: 10px;
   }

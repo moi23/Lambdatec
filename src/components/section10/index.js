@@ -4,9 +4,16 @@ import {Container} from "./styles";
 export default function section10() {
   return ( 
   <Container>
-    <h2 className = "ChamadaContrate" > RECEBA UM ORÇAMENTO E CONTRATE A LAMBDA </h2>  
-    <h2 className = "subTituloChamada" > Nossa equipe entrará em contato por e - mail ou telefone para coletar mais informações. </h2>
-
+    <div className="ChamadaFooter">
+      <h2 className = "ChamadaContrate" > RECEBA UM ORÇAMENTO E CONTRATE A LAMBDA </h2>  
+      <h2 className = "subTituloChamada" > Nossa equipe entrará em contato por email ou
+      telefone para coletar mais informações. </h2>
+    </div>
+    <div className="containerBtnContrate">
+      <div className="BtnContrate">
+        <a href="#" target="_blank" title="Contrate agora nossos serviços" >CONTRATE</a>
+      </div>
+    </div>
   </Container>
 
     
