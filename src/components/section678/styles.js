@@ -12,10 +12,10 @@ export const Container = styled.div `
     src: url(${Font});
   }
 
-  .T {
+  .container_cards {
     display: flex;
     justify-content: center;
-    flex-direction: column;
     align-items: center;
+    flex-wrap: wrap;
   }
 `;

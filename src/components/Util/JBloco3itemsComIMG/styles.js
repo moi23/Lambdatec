@@ -16,7 +16,19 @@ export const Container = styled.div`
     align-items: center;
     height: 280px;
     width: 500px;
-    background: white;
+  }
+
+  .box img {
+    width: 93px;
+    height: 93px;
+  }
+
+  .icone {
+    width: 93px;
+    height: 93px;
+    top: 0;
+    margin-right: 20px;
+    margin-bottom: 75px;
   }
 
   .sub_box {
@@ -32,14 +44,6 @@ export const Container = styled.div`
     display: flex;
   }
 
-  .text {
-    font-size: 180px;
-    line-height: 138px;
-    font-weight: 700;
-    color: black;
-    margin-right: 20px;
-  }
-
   .title {
     text-align: justify;
     font-weight: bold;
@@ -47,9 +51,11 @@ export const Container = styled.div`
     font-size: 19px;
     line-height: 38px;
   }
+
   p {
     text-align: justify;
     font-weight: bold;
     font-family: Font;
+    margin-right: 20px;
   }
 `;

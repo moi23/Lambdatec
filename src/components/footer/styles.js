@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Font from "../../assets/avnir_sv/AvenirLTStd-Book.otf";
 
 export const Container = styled.div`
 
@@ -6,6 +7,11 @@ export const Container = styled.div`
   background-color: black;
   bottom: 0;
   left: 0;
+
+   @font-face {
+     font-family: Font;
+     src: url(${Font});
+   }
 
   
   .Footer {
@@ -61,4 +67,10 @@ export const Container = styled.div`
     opacity: 100%;
     transform: scale(2);
   }
+
+  .Contato{
+    text-align: center;
+    color: white;
+  }
+
 `;

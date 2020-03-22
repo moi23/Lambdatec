@@ -11,7 +11,7 @@ export default function section10() {
     </div>
     <div className="containerBtnContrate">
       <div className="BtnContrate">
-        <a href="#" target="_blank" title="Contrate agora nossos serviços" >CONTRATE</a>
+        <a href="#" target="_blank">CONTRATE NOSSOS SERVIÇOS</a>
       </div>
     </div>
   </Container>

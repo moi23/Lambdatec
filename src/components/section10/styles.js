@@ -44,7 +44,7 @@ export const Container = styled.div`
     border: 2px solid black;
     letter-spacing: -.5px;
     position: absolute;
-    left: -45px;
+    left: -35px;
     top: 14px;
     transition: all .35s ease-in-out;
   }
@@ -55,14 +55,14 @@ export const Container = styled.div`
     border: 2px solid black;
     letter-spacing: -.5px;
     position: absolute;
-    right: -35px;
+    right: -28px;
     top: 14px;
     transition: all .35s ease-in-out;
   }
 
   .BtnContrate a:hover {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
     transition: all .35s ease-in-out;
   }
 

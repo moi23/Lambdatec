@@ -62,6 +62,8 @@ function Footer() {
           </div>
         </div>
       </div>
+      <h3 className="Contato">lambdatec.contato@gmail.com</h3>
+      <h3 className="Contato"> +55 15 99639 - 0784 | +55 15 99747 - 1589 </h3>
     </Container>
   );
 }
