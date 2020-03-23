@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9ef72f3b7b1a4f0f55e1ca09ca1f27c",
+    "revision": "b8b0bd8824bec32f0d4dc16080a4ce77",
     "url": "/Lambdatech/index.html"
   },
   {
-    "revision": "b8ea3e629d5beb402741",
-    "url": "/Lambdatech/static/css/main.13194f70.chunk.css"
+    "revision": "39643349152bbf349d7b",
+    "url": "/Lambdatech/static/css/main.f2958d64.chunk.css"
   },
   {
-    "revision": "d39f3f72ef01b9e7a283",
-    "url": "/Lambdatech/static/js/2.abdbf78e.chunk.js"
+    "revision": "7196b60d9fe89031c604",
+    "url": "/Lambdatech/static/js/2.7e0454ec.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/Lambdatech/static/js/2.abdbf78e.chunk.js.LICENSE.txt"
+    "url": "/Lambdatech/static/js/2.7e0454ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8ea3e629d5beb402741",
-    "url": "/Lambdatech/static/js/main.4670e32f.chunk.js"
+    "revision": "39643349152bbf349d7b",
+    "url": "/Lambdatech/static/js/main.61222646.chunk.js"
   },
   {
     "revision": "8dfbc55e7cfc09b8b301",
@@ -36,6 +36,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lambdatech/static/media/Particles.d8dbb275.mp4"
   },
   {
+    "revision": "6b99c22fbc65e332af4b33010bf7f2e8",
+    "url": "/Lambdatech/static/media/backup.6b99c22f.svg"
+  },
+  {
+    "revision": "05145450c4a5d199cccda85afc1370d8",
+    "url": "/Lambdatech/static/media/contract.05145450.svg"
+  },
+  {
+    "revision": "0df1835f9b916557721eeba001c8b6db",
+    "url": "/Lambdatech/static/media/database.0df1835f.svg"
+  },
+  {
     "revision": "c142265bfa0b541cb04eb9a2dd9fb8b1",
     "url": "/Lambdatech/static/media/facebook-square.c142265b.svg"
   },
@@ -46,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "48a2133dd5c34ad46cc6ab6ff06c03ec",
     "url": "/Lambdatech/static/media/linkedin.48a2133d.svg"
+  },
+  {
+    "revision": "206bf0db9106ce8aa81aeba8876daccd",
+    "url": "/Lambdatech/static/media/rocket.206bf0db.svg"
   }
 ]);

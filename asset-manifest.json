@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/Lambdatech/static/css/main.13194f70.chunk.css",
-    "main.js": "/Lambdatech/static/js/main.4670e32f.chunk.js",
-    "main.js.map": "/Lambdatech/static/js/main.4670e32f.chunk.js.map",
+    "main.css": "/Lambdatech/static/css/main.f2958d64.chunk.css",
+    "main.js": "/Lambdatech/static/js/main.61222646.chunk.js",
+    "main.js.map": "/Lambdatech/static/js/main.61222646.chunk.js.map",
     "runtime-main.js": "/Lambdatech/static/js/runtime-main.01613ff8.js",
     "runtime-main.js.map": "/Lambdatech/static/js/runtime-main.01613ff8.js.map",
-    "static/js/2.abdbf78e.chunk.js": "/Lambdatech/static/js/2.abdbf78e.chunk.js",
-    "static/js/2.abdbf78e.chunk.js.map": "/Lambdatech/static/js/2.abdbf78e.chunk.js.map",
+    "static/js/2.7e0454ec.chunk.js": "/Lambdatech/static/js/2.7e0454ec.chunk.js",
+    "static/js/2.7e0454ec.chunk.js.map": "/Lambdatech/static/js/2.7e0454ec.chunk.js.map",
     "index.html": "/Lambdatech/index.html",
-    "precache-manifest.06c4511bcd8c68c4829ae79a4b909308.js": "/Lambdatech/precache-manifest.06c4511bcd8c68c4829ae79a4b909308.js",
+    "precache-manifest.2a15031a843972de1fb00da6a5ba0457.js": "/Lambdatech/precache-manifest.2a15031a843972de1fb00da6a5ba0457.js",
     "service-worker.js": "/Lambdatech/service-worker.js",
-    "static/css/main.13194f70.chunk.css.map": "/Lambdatech/static/css/main.13194f70.chunk.css.map",
-    "static/js/2.abdbf78e.chunk.js.LICENSE.txt": "/Lambdatech/static/js/2.abdbf78e.chunk.js.LICENSE.txt",
+    "static/css/main.f2958d64.chunk.css.map": "/Lambdatech/static/css/main.f2958d64.chunk.css.map",
+    "static/js/2.7e0454ec.chunk.js.LICENSE.txt": "/Lambdatech/static/js/2.7e0454ec.chunk.js.LICENSE.txt",
     "static/media/AvenirLTStd-Book.otf": "/Lambdatech/static/media/AvenirLTStd-Book.ecb0c2ae.otf",
     "static/media/Logo99freelas.svg": "/Lambdatech/static/media/Logo99freelas.f4cb7509.svg",
     "static/media/Particles.mp4": "/Lambdatech/static/media/Particles.d8dbb275.mp4",
+    "static/media/backup.svg": "/Lambdatech/static/media/backup.6b99c22f.svg",
+    "static/media/contract.svg": "/Lambdatech/static/media/contract.05145450.svg",
+    "static/media/database.svg": "/Lambdatech/static/media/database.0df1835f.svg",
     "static/media/facebook-square.svg": "/Lambdatech/static/media/facebook-square.c142265b.svg",
     "static/media/github-square.svg": "/Lambdatech/static/media/github-square.358847e2.svg",
-    "static/media/linkedin.svg": "/Lambdatech/static/media/linkedin.48a2133d.svg"
+    "static/media/linkedin.svg": "/Lambdatech/static/media/linkedin.48a2133d.svg",
+    "static/media/rocket.svg": "/Lambdatech/static/media/rocket.206bf0db.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.01613ff8.js",
-    "static/js/2.abdbf78e.chunk.js",
-    "static/css/main.13194f70.chunk.css",
-    "static/js/main.4670e32f.chunk.js"
+    "static/js/2.7e0454ec.chunk.js",
+    "static/css/main.f2958d64.chunk.css",
+    "static/js/main.61222646.chunk.js"
   ]
 }
