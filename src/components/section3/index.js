@@ -28,6 +28,11 @@ export default function Section3() {
       title: "VERSÃO DE TESTES",
       paragraph:
         "Nossa equipe irá realizar todos os tipos de testes necessários para que haja nenhuma chance de erro na implantação do seu projeto."
+    },
+    {
+      number: "5",
+      title: "ODEIO MINHA VIDA",
+      paragraph: "TENHO AIDS"
     }
   ];
 
