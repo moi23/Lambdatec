@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
-  height: 90vh;
+  height: 100vh;
   width: auto;
   position: relative;
   display: flex;
@@ -19,7 +19,7 @@ export const Container = styled.div`
   img {
     position: absolute;
     height: 50%;
-    top: 10%;
+    top: 5%;
   }
 
   button {
@@ -27,8 +27,8 @@ export const Container = styled.div`
     color: white;
     border: 2px solid white;
     position: absolute;
-    bottom: -8%; 
-    font-size: 1em;
+    bottom: 10%; 
+    font-size: 2em;
     height: 10%;
     width: 20%;
     opacity: 50%;
@@ -50,7 +50,7 @@ export const Container = styled.div`
   .Teste {
     position: absolute;
     color: white;
-    bottom: 5%;
+    bottom: 25%;
     font-size: 3rem;
     letter-spacing: 10px;
   }
@@ -58,13 +58,13 @@ export const Container = styled.div`
   h2 {
     position: absolute;
     color: white;
-    bottom: 1px;
+    top: -20%;
     font-size: 3rem;
     letter-spacing: 10px;
   }
   h3 {
     position: absolute;
-    bottom: 100px;
+    bottom: 35%;
     color: white;
   }
 

@@ -14,7 +14,7 @@ export default function Section3() {
       number: "2",
       title: "PLATAFORMAS E TECNOLOGIAS",
       paragraph:
-        "As plataformas e as Tecnologias serão escolhidas para atender exatamente suas demandas."
+        "As plataformas e as tecnologias serão escolhidas para atender exatamente suas demandas."
     },
     {
       number: "3",
@@ -27,7 +27,7 @@ export default function Section3() {
       number: "4",
       title: "VERSÃO DE TESTES",
       paragraph:
-        "Nossa equipe irá realizar todos os tipos de testes necessários para que haja nenhuma chance de erro na implantação do seu projeto."
+        "Nossa equipe irá realizar todos os tipos de testes necessários para que haja NENHUMA chance de erro na implantação do seu projeto."
     }
   ];
 

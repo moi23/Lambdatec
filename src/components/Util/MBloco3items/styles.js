@@ -2,7 +2,7 @@ import styled from "styled-components";
 import Font from "../../../assets/avnir_sv/AvenirLTStd-Book.otf";
 
 export const Container = styled.div`
-  background-color: white;
+  /* background-color: white; */
   display: flex;
   justify-content: center;
 

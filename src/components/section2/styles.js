@@ -2,6 +2,7 @@ import styled from "styled-components";
 import Font from "../../assets/avnir_sv/AvenirLTStd-Book.otf";
 
 export const Container = styled.div`
+ background-color: white;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -12,7 +13,7 @@ export const Container = styled.div`
   }
 
   h2 {
-    margin-top: 13.8%;
+    margin-top: 10%;
     font-size: 64px;
     font-family: Font;
     letter-spacing: 20px;
