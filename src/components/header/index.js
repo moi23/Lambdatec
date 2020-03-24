@@ -12,16 +12,16 @@ export default function Header() {
       <video src={Particles} autoplay="autoplay" loop="loop" />
       <img src={Logo} className="animated fadeIn delay-1s" alt="" />
       <Typical
-        steps={["BEYOND", 1000, " WAY BEYOND YOUR MIND", 5000]}
+        steps={["BEYOND", 1000, " WAY BEYOND YOUR MIND...", 5000]}
         loop={Infinity}
         wrapper="h1"
-        className="Teste "
+        className="Teste"
       />
       <h3>
         Segurança, design, SEO, desenvolvimento em alta performance, agora com
-        a consultoria da λ
-      </h3>
-      <button>?</button>
+        a consultoria da Lambda
+      </h3> 
+      <button onclick="#sec1">?</button>
     </Container>
   );
 }

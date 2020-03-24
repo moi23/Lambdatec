@@ -1,16 +1,36 @@
 import styled from "styled-components";
+import Font from "../../assets/avnir_sv/AvenirLTStd-Book.otf";
+import Particles from "../../assets/Particles.mp4";
 
 export const Container = styled.div`
+
   height: 30vh;
-  background-color: black;
   bottom: 0;
   left: 0;
 
+   @font-face {
+     font-family: Font;
+     src: url(${Font});
+   }
+    .videoFooter {
+
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      min-width: 100%;
+      width: auto;
+      height: auto;
+      z-index: -1000;
+      background-size: cover;
+   }
+  
   .Footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
   }
+
 
   .LogoLambdaFooter {
     position: relative;
@@ -39,7 +59,7 @@ export const Container = styled.div`
 
   .HRdivisaoRedesSociais {
     width: 100%;
-    margin-left: 5%;
+    margin-left: 4%;
     margin-top: 8%;
     opacity: 20%;
   }
@@ -58,4 +78,27 @@ export const Container = styled.div`
     opacity: 100%;
     transform: scale(2);
   }
+
+  .Contato{
+    width:100%;
+    left: 0;
+    text-align: center;
+    color: white;
+    z-index: 999;
+    opacity: 20%;
+    transition: .5s;
+    transform: scale(0.8);
+  }
+
+  .Contato:hover {
+    opacity: 100%;
+    transition: .5s;
+    transform: scale(1);
+  }
+
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+
 `;

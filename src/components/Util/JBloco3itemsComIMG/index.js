@@ -1,17 +1,17 @@
 import React from "react";
-import { Container } from "./styles";
+import {Container} from "./styles";
 
 function Bloco3(props) {
   return (
     <Container>
       <div className="box">
-        <p className="text">{props.number}</p>
+        <img src={props.icon} alt="" className="icone" /> 
         <div className="sub_box">
           <div className="sub_sub_Box">
             <p className="title">{props.title}</p>
           </div>
-          <p>{props.paragraph}</p>
-        </div>
+          <p>{props.paragraph}</p> 
+        </div> 
       </div>
     </Container>
   );

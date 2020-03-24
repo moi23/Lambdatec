@@ -6,6 +6,8 @@ export default function section5() {
   return (
     <Container>
       <MBlocoTitle text="THE MIND CONTROL" />
+      <br /> 
+      <p> Infra-estrutura de servidores escalável e flexível, montada sob medida e exlusivamente para o seu projeto. </p>
     </Container>
   );
 }
