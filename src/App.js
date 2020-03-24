@@ -8,11 +8,7 @@ import Section5 from "./components/section5";
 import Section6 from "./components/section6";
 import Section7 from "./components/section7";
 import Section8 from "./components/section8";
-<<<<<<< HEAD
-import Section9 from "./components/section9/";
-=======
 import Section9 from "./components/section9";
->>>>>>> edc0da8cd18e5db7ce6a9de7fd0d8ec3e38bfc17
 import Footer from "./components/footer";
 
 function App() {
