@@ -6,7 +6,7 @@ import BackupsLogo from "../../assets/backup.svg";
 import HomologLogo from "../../assets/contract.svg";
 import DeployLogo from "../../assets/rocket.svg";
 
-export default function Section678() {
+export default function Section7() {
   const items = [{
       number: "1",
       icon: EscalaLogo,
