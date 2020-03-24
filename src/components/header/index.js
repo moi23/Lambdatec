@@ -9,7 +9,7 @@ import Typical from "react-typical";
 export default function Header() {
   return (
     <Container>
-      <video src={Particles} autoplay="autoplay" loop="loop" />
+      <video src={Particles} autoPlay loop muted />
       <img src={Logo} className="animated fadeIn delay-1s" alt="" />
       <Typical
         steps={["BEYOND", 1000, " WAY BEYOND YOUR MIND...", 5000]}

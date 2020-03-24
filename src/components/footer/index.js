@@ -14,8 +14,9 @@ function Footer() {
 
 
   <video src={Particles}
-  autoplay="autoplay"
-  loop="loop"
+  autoPlay
+  loop
+  muted
   className="videoFooter" />
 
 
