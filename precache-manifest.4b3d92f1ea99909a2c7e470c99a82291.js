@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8b0bd8824bec32f0d4dc16080a4ce77",
+    "revision": "4171fca017613a2af20b4a8a795213e8",
     "url": "/Lambdatech/index.html"
   },
   {
-    "revision": "39643349152bbf349d7b",
-    "url": "/Lambdatech/static/css/main.f2958d64.chunk.css"
+    "revision": "de8a104eb7163155ddb3",
+    "url": "/Lambdatech/static/css/main.1c362879.chunk.css"
   },
   {
-    "revision": "7196b60d9fe89031c604",
-    "url": "/Lambdatech/static/js/2.7e0454ec.chunk.js"
+    "revision": "e954ed6c0d33b568043a",
+    "url": "/Lambdatech/static/js/2.b018d2fd.chunk.js"
   },
   {
-    "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/Lambdatech/static/js/2.7e0454ec.chunk.js.LICENSE.txt"
+    "revision": "637677f20a307b82153d9d9c1b23375c",
+    "url": "/Lambdatech/static/js/2.b018d2fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39643349152bbf349d7b",
-    "url": "/Lambdatech/static/js/main.61222646.chunk.js"
+    "revision": "de8a104eb7163155ddb3",
+    "url": "/Lambdatech/static/js/main.1eb587c2.chunk.js"
   },
   {
-    "revision": "8dfbc55e7cfc09b8b301",
-    "url": "/Lambdatech/static/js/runtime-main.01613ff8.js"
+    "revision": "7457d595df5141cf22ba",
+    "url": "/Lambdatech/static/js/runtime-main.94338168.js"
   },
   {
     "revision": "ecb0c2ae369ba2a89d9a1ec2a1b3187b",
