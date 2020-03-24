@@ -16,7 +16,7 @@ export default function Section9() {
       <div className="containerBtnContrate">
         <div className="BtnContrate">
           <a href="#" target="_blank">
-            CONTRATE NOSSOS SERVIÇOS
+            CONTRATE NOSSOS SERVIÇOSs
           </a>
         </div>
       </div>
