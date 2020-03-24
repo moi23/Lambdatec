@@ -11,7 +11,6 @@ export var Container = styled.div`
   .ChamadaContrate {
     text-align: center;
     letter-spacing: 15px;
-    color: red;
   }
 
   .subTituloChamada {
@@ -42,7 +41,7 @@ export var Container = styled.div`
 
   .BtnContrate a::before {
     content: "";
-    width: 30px;
+    width: 45px;
     border: 2px solid black;
     letter-spacing: -0.5px;
     position: absolute;
@@ -52,7 +51,8 @@ export var Container = styled.div`
   }
 
   .BtnContrate a::after {
-    width: 30px;
+    content: "";
+    width: 45px;
     border: 2px solid black;
     letter-spacing: -0.5px;
     position: absolute;
@@ -67,4 +67,4 @@ export var Container = styled.div`
     transition: all 0.35s ease-in-out;
   }
 `;
-// export default Container;
+export default Container;

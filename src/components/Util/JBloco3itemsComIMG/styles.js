@@ -46,9 +46,9 @@ export const Container = styled.div`
 
   .title {
     text-align: justify;
-    font-weight: bold;
     font-family: Font;
-    font-size: 19px;
+    font-size: 25px;
+    letter-spacing: 40px;
     line-height: 38px;
   }
 

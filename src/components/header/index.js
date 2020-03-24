@@ -10,7 +10,7 @@ import "../../logic/autoPlay";
 export default function Header() {
   return (
     <Container>
-      <video src={Particles} className="teste" autoPlay loop muted />
+      <video src={Particles} autoPlay loop muted />
       <img src={Logo} className="animated fadeIn delay-1s" alt="" />
       <Typical
         steps={["BEYOND", 1000, " WAY BEYOND YOUR MIND...", 5000]}
@@ -22,7 +22,8 @@ export default function Header() {
         Segurança, design, SEO, desenvolvimentos em alta performance, agora com
         a consultoria da Lambda
       </h3>
-      <button onclick="#sec1">?</button>
+
+      <button>?</button>
     </Container>
   );
 }

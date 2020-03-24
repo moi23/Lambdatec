@@ -22,6 +22,7 @@ export const Container = styled.div`
     top: 5%;
   }
 
+
   button {
     background: transparent;
     color: white;
