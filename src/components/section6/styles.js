@@ -47,6 +47,7 @@ export const Container = styled.div `
     font-size: 25px;
     letter-spacing: 25px;
    width: 50%;
+   text-align: right;
   }
 
   .paragrafo_card{
