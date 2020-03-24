@@ -12,23 +12,30 @@ export const Container = styled.div`
   video {
     width: 100%;
     position: relative;
-    background-attachment: fixed;
+    background-position: fixed;
     pointer-events: none;
+    background-repeat: repeat;
+    background-size: 100% 100%;
   }
 
-  img {
+  .glitchLogo {
     position: absolute;
     height: 50%;
     top: 5%;
   }
 
+  .lottsson {
+    position: absolute;
+    height: 50%;
+    top: 5%;
+  }
 
   button {
     background: transparent;
     color: white;
     border: 2px solid white;
     position: absolute;
-    bottom: 10%; 
+    bottom: 10%;
     font-size: 2em;
     height: 10%;
     width: 20%;
@@ -47,7 +54,7 @@ export const Container = styled.div`
     position: absolute;
     transform: scale(1.1);
   }
-  
+
   .Teste {
     position: absolute;
     color: white;
@@ -69,5 +76,22 @@ export const Container = styled.div`
     color: white;
   }
 
-  
+  @media only screen and (max-width: 1920px) {
+    height: 100vh;
+  }
+  @media only screen and (max-width: 1680px) {
+    height: 90vh;
+
+    img {
+      position: absolute;
+      height: 43%;
+      top: 11%;
+    }
+  }
+  @media only screen and (max-width: 1440px) {
+    height: 76vh;
+  }
+  @media only screen and (max-width: 1024px) {
+    height: 54vh;
+  }
 `;
