@@ -12,6 +12,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-glitchify": "^2.4.14",
+    "react-lottie": "^1.2.3",
     "react-perfect-scrollbar": "^1.5.8",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0",
