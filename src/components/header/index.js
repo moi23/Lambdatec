@@ -19,7 +19,7 @@ export default function Header() {
       />
       <h3>
         Segurança, design, SEO, desenvolvimentos em alta performance, agora com
-        a consultoria da Lambda
+        a consultoria da Lambda!
       </h3>
 
       <button>?</button>
