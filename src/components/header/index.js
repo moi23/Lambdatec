@@ -5,7 +5,6 @@ import Particles from "../../assets/Particles.mp4";
 import Logo from "../../assets/lambda2.png";
 import "../../animate.css";
 import Typical from "react-typical";
-import "../../logic/autoPlay";
 
 export default function Header() {
   return (

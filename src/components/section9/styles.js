@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export var Container = styled.div`
   background-color: white;
@@ -13,11 +13,11 @@ export var Container = styled.div`
     letter-spacing: 15px;
   }
 
-  .subTituloChamada {
-    text-align: center;
+  .subTituloChamada{
+    text-align: center; 
   }
 
-  .containerBtnContrate {
+  .containerBtnContrate{
     width: 100%;
     display: flex;
     justify-content: center;
@@ -34,37 +34,38 @@ export var Container = styled.div`
     line-height: 30px;
     letter-spacing: 8px;
     font-weight: 600;
-    opacity: 0.9;
+    opacity: .9;
     text-decoration: none;
-    transition: all 0.35s ease-in-out;
+    transition: all .35s ease-in-out;
   }
 
-  .BtnContrate a::before {
+  .BtnContrate a::before{
     content: "";
     width: 45px;
     border: 2px solid black;
-    letter-spacing: -0.5px;
+    letter-spacing: -.5px;
     position: absolute;
     left: -35px;
     top: 14px;
-    transition: all 0.35s ease-in-out;
+    transition: all .35s ease-in-out;
   }
 
   .BtnContrate a::after {
     content: "";
     width: 45px;
     border: 2px solid black;
-    letter-spacing: -0.5px;
+    letter-spacing: -.5px;
     position: absolute;
     right: -28px;
     top: 14px;
-    transition: all 0.35s ease-in-out;
+    transition: all .35s ease-in-out;
   }
 
   .BtnContrate a:hover {
     padding-left: 25px;
     padding-right: 25px;
-    transition: all 0.35s ease-in-out;
+    transition: all .35s ease-in-out;
   }
-`;
+
+`
 export default Container;
