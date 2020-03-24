@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Lambdatech/static/css/main.1c362879.chunk.css",
-    "main.js": "/Lambdatech/static/js/main.1eb587c2.chunk.js",
-    "main.js.map": "/Lambdatech/static/js/main.1eb587c2.chunk.js.map",
+    "main.js": "/Lambdatech/static/js/main.e2bcc959.chunk.js",
+    "main.js.map": "/Lambdatech/static/js/main.e2bcc959.chunk.js.map",
     "runtime-main.js": "/Lambdatech/static/js/runtime-main.94338168.js",
     "runtime-main.js.map": "/Lambdatech/static/js/runtime-main.94338168.js.map",
     "static/js/2.b018d2fd.chunk.js": "/Lambdatech/static/js/2.b018d2fd.chunk.js",
     "static/js/2.b018d2fd.chunk.js.map": "/Lambdatech/static/js/2.b018d2fd.chunk.js.map",
     "index.html": "/Lambdatech/index.html",
-    "precache-manifest.4b3d92f1ea99909a2c7e470c99a82291.js": "/Lambdatech/precache-manifest.4b3d92f1ea99909a2c7e470c99a82291.js",
+    "precache-manifest.819a8c1296b2997754e5a6ea2697950c.js": "/Lambdatech/precache-manifest.819a8c1296b2997754e5a6ea2697950c.js",
     "service-worker.js": "/Lambdatech/service-worker.js",
     "static/css/main.1c362879.chunk.css.map": "/Lambdatech/static/css/main.1c362879.chunk.css.map",
     "static/js/2.b018d2fd.chunk.js.LICENSE.txt": "/Lambdatech/static/js/2.b018d2fd.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.94338168.js",
     "static/js/2.b018d2fd.chunk.js",
     "static/css/main.1c362879.chunk.css",
-    "static/js/main.1eb587c2.chunk.js"
+    "static/js/main.e2bcc959.chunk.js"
   ]
 }
