@@ -11,15 +11,7 @@ function Footer() {
   return (
     <Container>
       <div className="Footer">
-
-
-  <video src={Particles}
-  autoPlay
-  loop
-  muted
-  className="videoFooter" />
-
-
+        <video src={Particles} autoPlay loop muted className="videoFooter" />
 
         <div>
           <a href="#">
@@ -35,7 +27,7 @@ function Footer() {
             <hr className="HRdivisaoRedesSociais" />
           </div>
           <div className="RedesSociais">
-            < a href = "https://www.facebook.com/LambdaTec1/" target ="_blank" >
+            <a href="https://www.facebook.com/LambdaTec1/" target="_blank">
               <img
                 src={LogoFace}
                 alt="Facebook"
@@ -72,17 +64,28 @@ function Footer() {
           </div>
           <br />
           <div className="Contatos">
-          <a href="mailto:lambdatec.contato@gmail.com"
-          target="_blank">
-            <h3 className="Contato"> lambdatec.contato@gmail.com </h3>
-          </a> 
-          <h3 className="Contato"> <a href ="https://api.whatsapp.com/send?phone=5515996390784" target="_blank"> +55 15 99639 - 0784 </a> | <a href="https://api.whatsapp.com/send?phone=5515997471589" target="_blank"> +55 15 99747 - 1589 </a> </h3>
-          <br />
+            <a href="mailto:lambdatec.contato@gmail.com" target="_blank">
+              <h3 className="Contato"> lambdatec.contato@gmail.com </h3>
+            </a>
+            <h3 className="Contato">
+              <a
+                href="https://api.whatsapp.com/send?phone=5515996390784"
+                target="_blank"
+              >
+                +55 15 99639 - 0784
+              </a>
+              |
+              <a
+                href="https://api.whatsapp.com/send?phone=5515997471589"
+                target="_blank"
+              >
+                +55 15 99747 - 1589
+              </a>
+            </h3>
+            <br />
           </div>
         </div>
       </div>
-      
-
     </Container>
   );
 }
