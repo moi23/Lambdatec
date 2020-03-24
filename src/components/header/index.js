@@ -21,7 +21,9 @@ export default function Header() {
         Segurança, design, SEO, desenvolvimento em alta performance, agora com
         a consultoria da Lambda
       </h3> 
-      <button onclick="#sec1">?</button>
+      
+      <button>?</button>
+ 
     </Container>
   );
 }

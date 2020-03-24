@@ -41,7 +41,7 @@ export var Container = styled.div`
 
   .BtnContrate a::before{
     content: "";
-    width: 30px;
+    width: 45px;
     border: 2px solid black;
     letter-spacing: -.5px;
     position: absolute;
@@ -52,7 +52,7 @@ export var Container = styled.div`
 
   .BtnContrate a::after {
     content: "";
-    width: 30px;
+    width: 45px;
     border: 2px solid black;
     letter-spacing: -.5px;
     position: absolute;
