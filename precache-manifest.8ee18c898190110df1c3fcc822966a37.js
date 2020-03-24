@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cbf04051b763d585c1d9d2e118f9144",
+    "revision": "3f9f81d6b05a1cfc4c2c7f2824189ace",
     "url": "/Lambdatech/index.html"
   },
   {
-    "revision": "cb83890a796698c41b86",
+    "revision": "44bf678dcaf4559f0f2d",
     "url": "/Lambdatech/static/css/main.1c362879.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lambdatech/static/js/2.b018d2fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb83890a796698c41b86",
-    "url": "/Lambdatech/static/js/main.e2bcc959.chunk.js"
+    "revision": "44bf678dcaf4559f0f2d",
+    "url": "/Lambdatech/static/js/main.748141b6.chunk.js"
   },
   {
     "revision": "7457d595df5141cf22ba",
