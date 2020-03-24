@@ -5,6 +5,7 @@ import Particles from "../../assets/Particles.mp4";
 import Logo from "../../assets/lambda2.png";
 import "../../animate.css";
 import Typical from "react-typical";
+import "../../logic/autoPlay";
 
 export default function Header() {
   return (
@@ -18,12 +19,11 @@ export default function Header() {
         className="Teste"
       />
       <h3>
-        Segurança, design, SEO, desenvolvimento em alta performance, agora com
+        Segurança, design, SEO, desenvolvimentos em alta performance, agora com
         a consultoria da Lambda
-      </h3> 
-      
+      </h3>
+
       <button>?</button>
- 
     </Container>
   );
 }
