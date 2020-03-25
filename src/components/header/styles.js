@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
-  height: 100vh;
+  height: 110%;
   width: auto;
   position: relative;
   display: flex;
