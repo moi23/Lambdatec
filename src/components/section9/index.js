@@ -1,5 +1,6 @@
 import React from "react";
 import { Container } from "./styles";
+import Contact from "../../pages/contact/index";
 
 export default function Section9() {
   return (
