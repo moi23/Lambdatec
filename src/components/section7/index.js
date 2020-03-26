@@ -30,7 +30,7 @@ export default function Section7() {
       number: "4",
       icon: ResponsiveLogo,
       title: "RESPONSIVE",
-      paragraph: "O processo de criação de sistemas é configurado para que sua exibição seja otimizada em qualquer tela, desde smartphones até grandes monitores."
+      paragraph: "Um site responsivo é aquele cuja disposição dos elementos e o conteúdo se adaptam de acordo com o tamanho da tela do usuário. O processo de criação de sistemas é configurado para que sua exibição seja otimizada em qualquer tela, desde smartphones até grandes monitores."
     }
   ];
 
