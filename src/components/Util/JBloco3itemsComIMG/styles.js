@@ -48,7 +48,7 @@ export const Container = styled.div`
     text-align: justify;
     font-family: Font;
     font-size: 25px;
-    letter-spacing: 40px;
+    letter-spacing: 20px;
     line-height: 38px;
   }
 

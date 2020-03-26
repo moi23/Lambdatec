@@ -89,7 +89,7 @@ export const Container = styled.div`
     }
   }
   @media only screen and (max-width: 1440px) {
-    height: 76vh;
+    height: 90vh;
   }
   @media only screen and (max-width: 1024px) {
     height: 54vh;

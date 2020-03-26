@@ -7,7 +7,7 @@ export default function Section2() {
     <Container>
       <MBlocoTitle text="LAMBDA PACK" />
       <br></br>
-      <p>Seu projeto lançado e funcionando com força total sem preocupação!</p>
+      <p>Seu projeto desenvolvido e funcionando com força total e sem preocupação!</p>
     </Container>
   );
 }

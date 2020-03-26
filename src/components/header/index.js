@@ -27,8 +27,7 @@ export default function Header() {
         className="Teste"
       />
       <h3>
-        Segurança, design, SEO, desenvolvimentos em alta performance, agora com
-        a consultoria da Lambda!
+        Design, SEO, SPA's e sistemas web de alta performance, agora com a Lambda!
       </h3>
 
       <button>?</button>

@@ -1,36 +1,36 @@
 import React from "react";
 import {Container} from "./styles";
 import JBloco3itemsComIMG from "../Util/JBloco3itemsComIMG/index.js";
-import EscalaLogo from "../../assets/database.svg";
-import BackupsLogo from "../../assets/backup.svg";
-import HomologLogo from "../../assets/contract.svg";
-import DeployLogo from "../../assets/rocket.svg";
+import ReactLogo from "../../assets/react.svg";
+import IdentidadeVisualLogo from "../../assets/eye.svg";
+import SEOLogo from "../../assets/google.svg";
+import ResponsiveLogo from "../../assets/responsive.svg";
 
 export default function Section7() {
   const items = [{
       number: "1",
-      icon: EscalaLogo,
-      title: "ESCALA",
-      paragraph: "Sua infra-estrutura escala de acordo com as necessidades do seu projeto, com custo fixo sem varição por uso de recursos ou flutuação do dólar."
+      icon: ReactLogo,
+      title: "REACT",
+      paragraph: "Todos os nossos projetos são desenvolvidos ReactJS e/ou ReactNative, o que proporciona maior agilidade no processamento e aplicações bem organizadas e escaláveis, ou seja, de fácil manutenção, mesmo que cresça em complexidade e tamanho."
     },
     {
       number: "2",
-      icon: BackupsLogo,
-      title: "BACKUPS",
-      paragraph: "Todos os seus arquivos e dados são armazenados com redudância intercontinental e passam por uma rotina de backups em horas, dias, semanas e meses."
+      icon: IdentidadeVisualLogo,
+      title: "ID VISUAL",
+      paragraph: "A equipe de designers da LambdaTec irão analisar sua marca, seu nicho de mercado e a personalidade de seu público alvo, para que finalmente possam elaborar sua identidade visual, paleta de cores mais adequadas, etc..."
     },
     {
       number: "3",
-      icon: HomologLogo,
-      title: "HOMOLOG",
-      paragraph: "Todo projeto na LambdaTec recebe um ambiente de homologação sem custo adicional, e toda alteração é aplicada e aprovada em um ambiente privado."
+      icon: SEOLogo,
+      title: "SEO",
+      paragraph: "SEO é a sigla para Search Engine Optimization, que significa otimização para mecanismos de busca, ou otimização de sites. Nós iremos usar os robôs de pesquisa do Google e outros motores de busca para te dar vantagem e sua empresa irá aparecer nas primeiras páginas das pesquisas."
     },
 
     {
       number: "4",
-      icon: DeployLogo,
-      title: "DEPLOY",
-      paragraph: "O processo de upload e arquivos pode ser configurado para que ocorra de maneira otimizada a partir do seu repositório de código, com total agilidade e segurança."
+      icon: ResponsiveLogo,
+      title: "RESPONSIVE",
+      paragraph: "O processo de criação de sistemas é configurado para que sua exibição seja otimizada em qualquer tela, desde smartphones até grandes monitores."
     }
   ];
 

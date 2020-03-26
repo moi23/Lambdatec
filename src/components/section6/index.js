@@ -4,8 +4,9 @@ import MBlocoTitle from "../Util/MBlocoTitle/index.js";
 
 export default function Section6() {
   return (<Container>
-    <MBlocoTitle text="THE HELP MIND" />
-    <br /> <p> Suporte, monitoramento e consultoria LambdaTec 24/7 para você ir mais longe com performance e segurança. </p> 
+    <MBlocoTitle text="THE MIND CONTROL" />
+    
+    <br /> <p> Suporte, monitoramento e consultoria LambdaTec para você ir mais longe com performance e segurança. </p> 
     
     <div className="container_cards">
     
