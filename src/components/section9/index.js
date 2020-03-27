@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "./styles";
-import Contact from "../../pages/contact/index";
+import { Link } from "react-router-dom";
 
 export default function Section9() {
   return (
@@ -16,9 +16,7 @@ export default function Section9() {
       </div>
       <div className="containerBtnContrate">
         <div className="BtnContrate">
-          <a href="/contact" target="_blank">
-            CONTRATE NOSSOS SERVIÇOS
-          </a>
+          <Link to="/contact">CONTRATE NOSSOS SERVIÇOS</Link>
         </div>
       </div>
     </Container>

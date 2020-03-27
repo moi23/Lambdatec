@@ -4,8 +4,10 @@ import { Container } from "./styled";
 export default function Contact() {
   return (
     <Container>
-      <div class="taligadopae"></div>
+      <title>oi</title>
+      <div class="form"></div>
       <iframe
+        title="nelson"
         id="typeform-full"
         width="100%"
         height="100%"

@@ -15,7 +15,7 @@ export const Container = styled.div`
     border: 0;
   }
 
-  .taligadopae {
+  .form {
     height: 6%;
     width: 100%;
     background: #ffffff;
