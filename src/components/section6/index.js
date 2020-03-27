@@ -7,7 +7,7 @@ export default function Section6() {
     <MBlocoTitle text="THE MIND CONTROL" />
     
     <br /> <p> Suporte, monitoramento e consultoria LambdaTec para você ir mais longe com performance e segurança. </p> 
-    
+    <div className="container_cards_main">
     <div className="container_cards">
     
       <div className="linha1_cards">
@@ -34,6 +34,7 @@ export default function Section6() {
     
     </div>
 
+  </div>
     </Container>
   );
 }

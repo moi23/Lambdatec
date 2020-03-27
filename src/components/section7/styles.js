@@ -17,5 +17,5 @@ export const Container = styled.div `
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-  }
+    padding-bottom: 5%;
 `;

@@ -24,6 +24,12 @@ export const Container = styled.div `
     padding-bottom: 5% ;
   }
 
+  .container_cards_main{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+  }
+
   .container_cards{
    width: 100%;
    display: flex;
