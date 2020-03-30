@@ -11,16 +11,21 @@ export const Container = styled.div`
     font-family: Font;
     src: url(${Font});
   }
+  
 
   h2 {
     margin-top: 10%;
     font-size: 64px;
     font-family: Font;
     letter-spacing: 20px;
+    
   }
 
   p {
     font-family: Font;
     font-weight: bold;
+  
   }
+
+  
 `;

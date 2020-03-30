@@ -11,6 +11,17 @@ export const Container = styled.div `
     font-family: Font;
     src: url(${Font});
   }
+  @media screen and(max-width: 1024px) {
+    display: none;
+    background-color:transparent;
+  }
+
+  JBloco3itemsComIMG {
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+    }
+  }
 
   .container_cards {
     display: flex;
@@ -18,4 +29,10 @@ export const Container = styled.div `
     align-items: center;
     flex-wrap: wrap;
     padding-bottom: 5%;
-`;
+
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+    }
+
+  }`;

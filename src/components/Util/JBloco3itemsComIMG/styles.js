@@ -6,6 +6,10 @@ export const Container = styled.div`
   display: flex;
   justify-content: center;
 
+  @media screen and(max-width: 1024px) {
+    display: none;
+  }
+
   @font-face {
     font-family: Font;
     src: url(${Font});

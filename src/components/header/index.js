@@ -1,8 +1,7 @@
 import React from "react";
-
+import Media from 'react-media';
 import { Container } from "./styles";
 import Particles from "../../assets/Particles.mp4";
-// import Logo from "../../assets/lambda2.png";
 import Glitchlogo from "../../assets/glitchlogo.mp4";
 import "../../animate.css";
 import Typical from "react-typical";

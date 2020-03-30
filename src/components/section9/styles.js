@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export var Container = styled.div`
   background-color: white;
 
+
   .ChamadaFooter {
     width: 100%;
     padding-top: 10%;

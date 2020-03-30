@@ -64,8 +64,8 @@ function Footer() {
           </div>
           <br />
           <div className="Contatos">
-            <a href="mailto:lambdatec.contato@gmail.com" target="_blank">
-              <h3 className="Contato"> lambdatec.contato@gmail.com </h3>
+            <a href="mailto:contato@lambdatec.com.br" target="_blank">
+              <h3 className="Contato">contato@lambdatec.com.br</h3>
             </a>
             <h3 className="Contato">
               <a

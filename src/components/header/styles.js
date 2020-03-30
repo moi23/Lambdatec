@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
-  height: 110%;
+  height: 100%;
   width: auto;
   position: relative;
   display: flex;
@@ -24,12 +24,6 @@ export const Container = styled.div`
     top: 5%;
   }
 
-  .lottsson {
-    position: absolute;
-    height: 50%;
-    top: 5%;
-  }
-
   button {
     background: transparent;
     color: white;
@@ -45,6 +39,7 @@ export const Container = styled.div`
     transform: scale(1);
     font-weight: bold;
     z-index: 999;
+     
   }
 
   button:hover {
@@ -53,6 +48,7 @@ export const Container = styled.div`
     border: 2px solid white;
     position: absolute;
     transform: scale(1.1);
+
   }
 
   .Teste {
@@ -61,6 +57,7 @@ export const Container = styled.div`
     bottom: 25%;
     font-size: 3rem;
     letter-spacing: 10px;
+    
   }
 
   h2 {
@@ -69,29 +66,40 @@ export const Container = styled.div`
     top: -20%;
     font-size: 3rem;
     letter-spacing: 10px;
+     
   }
   h3 {
     position: absolute;
     bottom: 35%;
     color: white;
+     
   }
 
   @media only screen and (max-width: 1920px) {
     height: 100vh;
   }
   @media only screen and (max-width: 1680px) {
-    height: 90vh;
-
     img {
       position: absolute;
       height: 43%;
       top: 11%;
     }
+    height: 100%;
   }
   @media only screen and (max-width: 1440px) {
-    height: 90vh;
+    img {
+      position: absolute;
+      height: 50%;
+      top: 50%;
+    }
+    height: 100%;
   }
   @media only screen and (max-width: 1024px) {
-    height: 54vh;
+    img {
+      position: absolute;
+      height: 50%;
+      top: 50%;
+    }
+    height: 100%;
   }
 `;

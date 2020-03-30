@@ -7,6 +7,11 @@ export const Container = styled.div`
   height: 30vh;
   bottom: 0;
   left: 0;
+  @media screen and(max-width: 1024px) {
+    display: none;
+    visibility: hidden;
+    overflow: hidden;
+  }
 
    @font-face {
      font-family: Font;
@@ -22,6 +27,11 @@ export const Container = styled.div`
       height: auto;
       z-index: -1000;
       background-size: cover;
+      @media screen and(max-width: 1024px) {
+        display: none;
+        visibility: hidden;
+        overflow: hidden;
+      }
    }
   
   .Footer {
@@ -29,6 +39,11 @@ export const Container = styled.div`
     justify-content: center;
     align-items: center;
     position: relative;
+    @media screen and (max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
 
@@ -38,11 +53,21 @@ export const Container = styled.div`
     margin-left: 46%;
     width: 37px;
     height: 32px;
+    @media screen and (max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
   .LogoLambdaFooter img {
     width: 100%;
     height: 100%;
+    @media screen and (max-width: 1024px) {
+     display: none;
+     visibility: hidden;
+     overflow: hidden;
+    }
   }
 
   .RedesSociais {
@@ -51,10 +76,20 @@ export const Container = styled.div`
     align-items: center;
     margin-top: 5vh;
     height: 30px;
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
   .divisaoRedesSociais {
     width: 100%;
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
   .HRdivisaoRedesSociais {
@@ -62,6 +97,11 @@ export const Container = styled.div`
     margin-left: 4%;
     margin-top: 8%;
     opacity: 20%;
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
   .RedesSociais a img {
@@ -72,11 +112,21 @@ export const Container = styled.div`
     transform: scale(1);
     filter: invert(1);
     opacity: 20%;
+    @media screen and(max-width: 1024px) {
+     display: none;
+     visibility: hidden;
+     overflow: hidden;
+    }
   }
 
   .RedesSociais a img:hover {
     opacity: 100%;
     transform: scale(2);
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
   .Contato{
@@ -88,17 +138,32 @@ export const Container = styled.div`
     opacity: 20%;
     transition: .5s;
     transform: scale(0.8);
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
   .Contato:hover {
     opacity: 100%;
     transition: .5s;
     transform: scale(1);
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
   a {
     text-decoration: none;
     color: #fff;
+    @media screen and(max-width: 1024px) {
+      display: none;
+      visibility: hidden;
+      overflow: hidden;
+    }
   }
 
 `;
