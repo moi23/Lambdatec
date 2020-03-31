@@ -5,15 +5,20 @@ import LogoFace from "../../assets/facebook-square.svg";
 import LogoLink from "../../assets/linkedin.svg";
 import LogoGit from "../../assets/github-square.svg";
 import Logo99freelas from "../../assets/Logo99freelas.svg";
+import Astronauta from "../../assets/ArteAstronaut.svg";
 import Particles from "../../assets/Particles.mp4";
 
 function Footer() {
   return (
     <Container>
+      
       <div className="Footer">
         <video src={Particles} autoPlay loop muted className="videoFooter" />
+      <div>
+      <img className="ImgAstronauta" src={ Astronauta } alt="Astronauta mto loko"/>
+      </div>
 
-        <div>
+        <div className="ContainerLogosContato">
           <a href="#">
             <div className="LogoLambdaFooter">
               <img
